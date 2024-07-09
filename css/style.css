@@ -1,5 +1,12 @@
 main img {
-  width: 100%;
+  width: 300px;
+  display: block;
+}
+
+main a span {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline-block;
 }
 
 /*.container {*/
