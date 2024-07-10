@@ -9,8 +9,8 @@ main a span {
   display: inline-block;
 }
 
-.nav-link {
-  font-size: xx-large;
+header .nav-link {
+  font-size: medium;
   color: rgba(230, 230, 230, 1);
 }
 
