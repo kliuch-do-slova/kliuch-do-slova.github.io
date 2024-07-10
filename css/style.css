@@ -9,6 +9,11 @@ main a span {
   display: inline-block;
 }
 
+.nav-link {
+  font-size: xx-large;
+  color: rgba(230, 230, 230, 1);
+}
+
 /*.container {*/
 /*  padding: 10px;*/
 
