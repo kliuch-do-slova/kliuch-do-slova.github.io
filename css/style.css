@@ -12,7 +12,11 @@ main a span {
 
 main h1 {
   font-family: Bahnschrift, monospace;
+}
 
+main .section {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 header .nav-link {
