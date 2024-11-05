@@ -5,6 +5,10 @@ main img {
   display: block;
 }
 
+main .Audio .audio-player {
+  width: 280px; /* Adjust to your preferred height */
+}
+
 main a span {
   padding-top: 5px;
   padding-bottom: 5px;
