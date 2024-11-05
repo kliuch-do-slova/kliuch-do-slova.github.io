@@ -1,5 +1,7 @@
 main img {
   width: 280px;
+  height: 210px;
+  object-fit: cover;
   display: block;
 }
 
