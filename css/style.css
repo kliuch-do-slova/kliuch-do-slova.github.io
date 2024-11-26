@@ -29,10 +29,18 @@ main .title {
   margin-top: 5px;
 }
 
+html, body {
+  background-color: #FCAC47 !important;
+}
+
 header .nav-link {
   font-size: 20px;
   font-family: "Rockwell Extra Bold", sans-serif;
   color: rgba(230, 230, 230, 1);
+}
+
+header {
+  background-color: #45597D !important;
 }
 
 header img {
